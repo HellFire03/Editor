@@ -1,0 +1,18 @@
+hello!
+ 
+I am Hritika Dhasal and 'WELCOME'!
+I have build a TEXT EDITOR project 
+and it has following key features:
+ 
+1) Security.
+ 
+2) Login/Register.
+ 
+3) Working Oeparting system Interface.
+ 
+4) Text to Speech.
+ 
+...Soon more updates in future.
+ 
+Hope you will love it!
+:) 
